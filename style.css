@@ -1,0 +1,30 @@
+header
+{
+	background-color: #71d852;
+	text-align: center;
+	display: flex;
+	border: 2px solid black;
+}
+nav , article , aside
+{
+	background-color: #63f736;
+	border: 2px solid black;
+}
+nav ul li a 
+{
+	display: flex;
+	text-decoration: none;
+
+}
+footer
+{
+	background-color: #71d851;
+}
+header img
+{
+	text-align: right;
+	color: red;
+	margin-left: 100px;
+	width: 25%;
+	height: 30%;
+}
